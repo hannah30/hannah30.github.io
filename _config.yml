@@ -1,4 +1,4 @@
-title: Long Haul
+title: Choi Hannah Okkoung
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-haul
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: https://github.com/hannah30
+   instagram: https://www.instagram.com/hannah29/
+   facebook: https://www.facebook.com/okkoung.choi
+   email: watasikei@gmail.com
 
 google_analytics: "UA-58263416-1"
