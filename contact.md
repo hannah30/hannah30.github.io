@@ -6,7 +6,7 @@ title: Contact ME
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p>If you have questions about me free to <a href="mailto:watasikei@gmail.com">email me</a> or create an issue on <a href="https://github.com/hannah30">GitHub</a>. Enjoy!</p>
+    <p>If you have any questions about me free to <a href="mailto:watasikei@gmail.com">email me</a> or create an issue on <a href="https://github.com/hannah30">GitHub</a>. Enjoy!</p>
   </div>
   <form action="http://formspree.io/watasikei@mail.com" method="POST">
     <label for="name">Name</label>
